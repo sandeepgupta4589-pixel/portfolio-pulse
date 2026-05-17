@@ -9,3 +9,5 @@ venv/
 .DS_Store
 data/
 *.log
+gmail_credentials.json
+gmail_token.json
